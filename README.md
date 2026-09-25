@@ -8,6 +8,12 @@ My current work focuses on **backend engineering, AI/LLM integration, system des
 
 I enjoy taking an idea from architecture and implementation to testing, deployment, and documentation.
 
+# AI-Agent Portfolio
+
+> An AI-powered developer portfolio that lets recruiters interact with an AI assistant to explore my projects, technical skills, architecture, and engineering experience.
+
+🌐 **Live Portfolio:** https://ai-agent-portfolio-seven.vercel.app/
+
 ---
 
 ## 🚀 What I Build
@@ -137,6 +143,29 @@ The project is structured around provider abstraction and routing logic so that 
 
 ---
 
+## 🤖 About AI-Agent Portfolio
+
+**AI-Agent Portfolio** is an AI-powered developer portfolio built to showcase my projects, technical skills, and software engineering journey.
+
+It features an integrated **AI portfolio assistant** that helps recruiters and visitors explore my projects, technologies, architecture, and technical experience through natural-language interaction.
+
+### ✨ Highlights
+
+- 🤖 AI-powered portfolio assistant
+- 💼 Recruiter-focused project showcase
+- 🏗️ Project architecture & technical details
+- 📱 Responsive modern UI
+- ⚡ React + Vite frontend
+- 🌐 Deployed with Vercel
+
+### 🛠️ Tech Stack
+
+**React · Vite · JavaScript · Tailwind CSS · Django REST Framework · PostgreSQL · Gemini API · Three.js · Vercel · Render**
+
+### 🌐 Live Portfolio
+
+**https://ai-agent-portfolio-seven.vercel.app/**
+
 ## 🧠 Engineering Interests
 
 I’m particularly interested in:
@@ -185,8 +214,8 @@ I use GitHub to document projects, experiment with new technologies, practice so
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Amrutha-Altech
-- LinkedIn: 
-- Portfolio:
+- LinkedIn: www.linkedin.com/in/amrutha-bm
+- Portfolio:https://ai-agent-portfolio-seven.vercel.app
 - Email: amruthabm018@gmail.com
 
 ---
